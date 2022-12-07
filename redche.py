@@ -28,7 +28,7 @@ It will show you the full redirection path of URLs, shortened links, or tiny URL
         print('\tPython 3: apt-get install python3')
         print('\tRequests: pip install requests')
         print('\tcolorama: pip install colorama')
-        print('\nRun the tool: redli.py --track')
+        print('\nRun the tool: redche.py --track')
         print('Commands')
         print("--track or -t  -> Track the given URL's redirection path & find its end URL.")
         print('--help or -h  -> To display helpline how to use this tool & about tool. ')
