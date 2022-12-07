@@ -11,7 +11,7 @@ Python 3, requests and colorama libraries.
 ```
 ### Kali Linux / Termux
 ```
-     git clone https://github.com/JayaKumar-pypro/redli.git
+     git clone https://github.com/AkashShanker321/REDCHE.git
      cd redli
      python3 redche.py --track
 ```
