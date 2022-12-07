@@ -1,4 +1,4 @@
-![redli](https://user-images.githubusercontent.com/44950097/120939160-3ff24180-c734-11eb-87e8-f6b12e51afd6.JPG)
+![Red-Che-Logo](https://user-images.githubusercontent.com/76723803/206100610-aa5b5bc0-f55f-4892-bc15-4c4bff8f38d9.png)
 # redche v1.0
 Have you ever wondered: Where does this link go? The REDCHE Tool follows the path of the URL. It allows you to see the complete path a redirected URL goes  through. It will show you the full redirection path of URLs, shortened links, or tiny URLs.
 ### Requirements
